@@ -6,7 +6,7 @@ Have you ever felt annoyed at the excessive amount of time you spend downloading
 ## Setup:
 1. Open Terminal / Command Prompt
 2. Type ``` git clone https://github.com/BinaryCrazy/apcs-downloader.git```
-3. Move all files from  ```apcs-downloader``` to ```MyDocuments```.
+3. Move all files from  ```apcs-downloader``` to ```MyDocuments``` (Or the directory in which all your program folders are located).
 4. Compile ``` Assistant.java ``` by typing: ```javac -cp 'jsoup.jar' Assistant.java ```
 
 ---
