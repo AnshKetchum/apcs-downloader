@@ -21,4 +21,5 @@ The process will take 20 - 30 seconds, so sit back and relax.
 
 ## Summary: 
 Compilation:  ```javac -cp 'jsoup.jar' Assistant.java ```
+
 Execution: ```java -cp ".:jsoup.jar" Assistant [Program Name]```
